@@ -24,7 +24,7 @@
         }
     ],
     "form": {
-        "title": "Send Us a Message",
+        "title": "Contact Options",
         "fields": [
             {
                 "name": "fullName",

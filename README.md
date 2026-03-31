@@ -59,7 +59,7 @@ To update the website content, edit the corresponding JSON files in the `/conten
 - `vendors.json`: Technology partners and vendors.
 - `products.json`: Proprietary security products.
 - `support.json`: Support plans and FAQs.
-- `contact.json`: Contact information and form configuration.
+- `contact.json`: Contact information and consultation call-to-action content.
 
 ## 🚫 Hard Rule
 
