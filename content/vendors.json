@@ -1,0 +1,72 @@
+{
+    "hero": {
+        "headline": "Technology Vendors & Partners",
+        "subheadline": "We partner with world-leading technology vendors to deliver best-in-class security solutions"
+    },
+    "vendors": [
+        {
+            "id": "vendor-001",
+            "name": "Palo Alto Networks",
+            "shortDescription": "Next-generation cybersecurity platform covering network security, cloud security, and AI-powered SOC operations.",
+            "partnerType": "Gold Partner",
+            "category": "Network & Cloud Security",
+            "logo": "/vendors/paloalto.png"
+        },
+        {
+            "id": "vendor-002",
+            "name": "CrowdStrike",
+            "shortDescription": "Cloud-native endpoint protection platform with AI-driven threat intelligence and 24/7 managed threat hunting.",
+            "partnerType": "Authorized Reseller",
+            "category": "Endpoint Security",
+            "logo": "/vendors/crowdstrike.png"
+        },
+        {
+            "id": "vendor-003",
+            "name": "Microsoft Security",
+            "shortDescription": "Comprehensive security solutions including Defender XDR, Sentinel SIEM, and Entra identity management.",
+            "partnerType": "Gold Partner",
+            "category": "Identity & Cloud Security",
+            "logo": "/vendors/microsoft.png"
+        },
+        {
+            "id": "vendor-004",
+            "name": "Cisco Security",
+            "shortDescription": "Integrated security architecture spanning network, cloud, and endpoint with advanced threat intelligence.",
+            "partnerType": "Premier Partner",
+            "category": "Network Security",
+            "logo": "/vendors/cisco.png"
+        },
+        {
+            "id": "vendor-005",
+            "name": "Fortinet",
+            "shortDescription": "Security-driven networking through the Fortinet Security Fabric, enabling unified and automated security.",
+            "partnerType": "Authorized Partner",
+            "category": "Network & Endpoint Security",
+            "logo": "/vendors/fortinet.png"
+        },
+        {
+            "id": "vendor-006",
+            "name": "SentinelOne",
+            "shortDescription": "Autonomous AI-powered cybersecurity platform delivering real-time protection and incident response at machine speed.",
+            "partnerType": "Authorized Reseller",
+            "category": "Endpoint Security",
+            "logo": "/vendors/sentinelone.png"
+        },
+        {
+            "id": "vendor-007",
+            "name": "Splunk",
+            "shortDescription": "Market-leading SIEM and SOAR platform enabling unified security monitoring, investigation, and automated response.",
+            "partnerType": "Gold Partner",
+            "category": "SIEM & Analytics",
+            "logo": "/vendors/splunk.png"
+        },
+        {
+            "id": "vendor-008",
+            "name": "Tenable",
+            "shortDescription": "Exposure management platform helping organizations understand, prioritize, and reduce their cyber exposure.",
+            "partnerType": "Authorized Partner",
+            "category": "Vulnerability Management",
+            "logo": "/vendors/tenable.png"
+        }
+    ]
+}

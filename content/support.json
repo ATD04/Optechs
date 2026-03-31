@@ -1,0 +1,98 @@
+{
+    "hero": {
+        "headline": "Support Center",
+        "subheadline": "World-class support to keep your security operations running at peak performance"
+    },
+    "supportPlans": [
+        {
+            "id": "plan-standard",
+            "name": "Standard Support",
+            "description": "Essential support coverage for organizations with standard security requirements.",
+            "sla": "Next Business Day",
+            "hours": "8x5",
+            "features": [
+                "Email and portal-based support",
+                "Access to knowledge base",
+                "Quarterly health checks",
+                "Software updates and patches",
+                "Business hours phone support"
+            ],
+            "highlighted": false
+        },
+        {
+            "id": "plan-professional",
+            "name": "Professional Support",
+            "description": "Enhanced support with faster response times and dedicated account management.",
+            "sla": "4-Hour Response",
+            "hours": "12x5",
+            "features": [
+                "Priority phone and email support",
+                "Dedicated account manager",
+                "Monthly health checks",
+                "Patch management assistance",
+                "Remote troubleshooting sessions",
+                "Training sessions included"
+            ],
+            "highlighted": true
+        },
+        {
+            "id": "plan-enterprise",
+            "name": "Enterprise Support",
+            "description": "Mission-critical 24/7 support with dedicated engineering resources and guaranteed response SLAs.",
+            "sla": "1-Hour Response",
+            "hours": "24x7",
+            "features": [
+                "24/7 phone and portal support",
+                "Dedicated senior support engineer",
+                "Proactive monitoring and alerts",
+                "On-site support available",
+                "Emergency response  team",
+                "Weekly reviews and reporting",
+                "Custom SLA agreements"
+            ],
+            "highlighted": false
+        }
+    ],
+    "faqs": [
+        {
+            "id": "faq-001",
+            "question": "How quickly can OPTECHS respond to a security incident?",
+            "answer": "Our Enterprise Support clients receive a guaranteed 1-hour response time 24/7. Professional clients receive a 4-hour response during business hours. For critical incidents, our incident response team can be on-site within 24 hours across the region."
+        },
+        {
+            "id": "faq-002",
+            "question": "What regulatory frameworks does OPTECHS support?",
+            "answer": "We support all major frameworks including NCA ECC, ISO 27001, ISO 27701, PCI-DSS v4.0, SAMA Cyber Security Framework, NIST CSF, GDPR, SOC 2, and more. Our compliance team stays current with evolving regulatory requirements to ensure you remain compliant."
+        },
+        {
+            "id": "faq-003",
+            "question": "Do you offer proof-of-concept (POC) engagements?",
+            "answer": "Yes, we offer time-boxed POC engagements for all our solutions and products. POCs are structured to demonstrate value against your specific use cases and success criteria, allowing you to evaluate OPTECHS solutions with minimal commitment."
+        },
+        {
+            "id": "faq-004",
+            "question": "Can OPTECHS integrate with our existing security tools?",
+            "answer": "Absolutely. Our solutions are designed to integrate with your existing security stack. We support hundreds of native integrations via APIs, connectors, and industry-standard protocols (Syslog, CEF, STIX/TAXII). Our architects will assess your current environment and design the optimal integration approach."
+        },
+        {
+            "id": "faq-005",
+            "question": "How do you ensure data confidentiality during engagements?",
+            "answer": "Data confidentiality is paramount. All engagements are governed by NDA agreements. Our staff undergo background checks and hold active security clearances as required. We follow data minimization principles — we only collect data necessary for the engagement and securely destroy it post-project."
+        },
+        {
+            "id": "faq-006",
+            "question": "What industries do you specialize in?",
+            "answer": "We serve clients across financial services, government, healthcare, energy & utilities, telecommunications, education, and retail. Each sector has specialized compliance requirements and threat profiles that our sector-experienced teams understand deeply."
+        },
+        {
+            "id": "faq-007",
+            "question": "How do I open a support ticket?",
+            "answer": "You can open a ticket through our support portal (available to all active clients), via email at support@optechs.com, or by calling our support hotline. Enterprise clients also have access to a dedicated support engineer who can be reached directly."
+        },
+        {
+            "id": "faq-008",
+            "question": "Does OPTECHS offer training and certification preparation?",
+            "answer": "Yes, we offer a range of security training programs including security awareness training for end users, technical training for IT teams, and professional certification preparation for security practitioners (CISSP, CISM, CEH, CompTIA Security+, and more)."
+        }
+    ]
+}

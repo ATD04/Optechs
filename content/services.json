@@ -1,0 +1,193 @@
+{
+    "hero": {
+        "headline": "Professional Services",
+        "subheadline": "Expert-led services spanning the full cybersecurity lifecycle — from assessment to operations"
+    },
+    "services": [
+        {
+            "id": "svc-001",
+            "title": "Security Assessment & Penetration Testing",
+            "description": "Comprehensive vulnerability assessments and ethical hacking engagements to identify weaknesses before attackers do. Our certified penetration testers simulate real-world attack scenarios across your infrastructure, applications, and human layers.",
+            "deliverables": [
+                "Detailed vulnerability assessment report",
+                "Executive summary for leadership",
+                "Penetration testing findings with CVSS scoring",
+                "Step-by-step remediation roadmap",
+                "Re-assessment to verify fixes"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Scoping",
+                    "description": "Define assessment scope, rules of engagement, and objectives."
+                },
+                {
+                    "step": 2,
+                    "title": "Reconnaissance",
+                    "description": "Gather intelligence on target systems using OSINT and passive techniques."
+                },
+                {
+                    "step": 3,
+                    "title": "Testing",
+                    "description": "Execute controlled attacks to identify exploitable vulnerabilities."
+                },
+                {
+                    "step": 4,
+                    "title": "Reporting",
+                    "description": "Deliver comprehensive findings with risk ratings and remediation guidance."
+                },
+                {
+                    "step": 5,
+                    "title": "Remediation Support",
+                    "description": "Assist teams in fixing identified issues and verify via re-testing."
+                }
+            ],
+            "icon": "Search"
+        },
+        {
+            "id": "svc-003",
+            "title": "Security Architecture & Design",
+            "description": "Design and build a robust security architecture aligned with your business requirements and industry best practices. Our architects work with your teams to create blueprints that reduce risk and enable secure growth.",
+            "deliverables": [
+                "Current-state security architecture assessment",
+                "Target-state architecture blueprint",
+                "Technology selection and vendor evaluation",
+                "Implementation roadmap with priorities",
+                "Reference architecture documentation"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Discovery",
+                    "description": "Assess current infrastructure, tools, and security controls."
+                },
+                {
+                    "step": 2,
+                    "title": "Design",
+                    "description": "Develop target architecture aligned to zero-trust principles."
+                },
+                {
+                    "step": 3,
+                    "title": "Validate",
+                    "description": "Review architecture with stakeholders and refine requirements."
+                },
+                {
+                    "step": 4,
+                    "title": "Roadmap",
+                    "description": "Create phased implementation plan with milestones and KPIs."
+                }
+            ],
+            "icon": "Layout"
+        },
+        {
+            "id": "svc-004",
+            "title": "Incident Response & Forensics",
+            "description": "Rapid and methodical incident response services to contain breaches, minimize damage, and restore normal operations. Our IR team is on standby 24/7 and can be deployed within hours of an alert.",
+            "deliverables": [
+                "Initial containment and triage",
+                "Forensic investigation and root cause analysis",
+                "Malware analysis and IOC extraction",
+                "Post-incident report and lessons learned",
+                "Recovery and hardening recommendations"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Detect & Triage",
+                    "description": "Confirm the incident and assess its scope and severity."
+                },
+                {
+                    "step": 2,
+                    "title": "Contain",
+                    "description": "Isolate affected systems to prevent further spread."
+                },
+                {
+                    "step": 3,
+                    "title": "Eradicate",
+                    "description": "Remove the threat and close all attack vectors."
+                },
+                {
+                    "step": 4,
+                    "title": "Recover",
+                    "description": "Restore systems and validate integrity before returning to production."
+                },
+                {
+                    "step": 5,
+                    "title": "Post-Incident",
+                    "description": "Document findings and implement improvements."
+                }
+            ],
+            "icon": "AlertTriangle"
+        },
+        {
+            "id": "svc-005",
+            "title": "Security Awareness Training",
+            "description": "Transform your workforce into a human firewall with engaging, customized security awareness training programs. From phishing simulations to executive briefings, we build a security-first culture.",
+            "deliverables": [
+                "Customized training content library",
+                "Phishing simulation campaigns",
+                "Role-based training modules",
+                "Completion and performance dashboards",
+                "Quarterly awareness reports"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Assess",
+                    "description": "Evaluate current security awareness levels via baseline phishing test."
+                },
+                {
+                    "step": 2,
+                    "title": "Customize",
+                    "description": "Tailor content to your industry, roles, and threat landscape."
+                },
+                {
+                    "step": 3,
+                    "title": "Train",
+                    "description": "Deploy engaging training modules and simulations."
+                },
+                {
+                    "step": 4,
+                    "title": "Measure",
+                    "description": "Track progress via metrics, quizzes, and simulation results."
+                }
+            ],
+            "icon": "Users"
+        },
+        {
+            "id": "svc-006",
+            "title": "Compliance & Regulatory Advisory",
+            "description": "Navigate complex regulatory requirements with confidence. Our advisory team guides you through NCA ECC, ISO 27001, PCI-DSS, SAMA CSF, and GDPR compliance programs, from gap analysis to certification.",
+            "deliverables": [
+                "Compliance gap analysis report",
+                "Remediation project plan",
+                "Policy and procedure development",
+                "Evidence collection guidance",
+                "Certification audit support"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Gap Analysis",
+                    "description": "Assess current controls against regulatory requirements."
+                },
+                {
+                    "step": 2,
+                    "title": "Planning",
+                    "description": "Develop remediation plan with timelines and responsibilities."
+                },
+                {
+                    "step": 3,
+                    "title": "Implementation",
+                    "description": "Support control implementation and documentation."
+                },
+                {
+                    "step": 4,
+                    "title": "Audit Readiness",
+                    "description": "Prepare for compliance audits with mock assessments."
+                }
+            ],
+            "icon": "FileCheck"
+        }
+    ]
+}

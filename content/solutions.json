@@ -1,0 +1,100 @@
+{
+    "hero": {
+        "headline": "Cybersecurity Solutions",
+        "subheadline": "Comprehensive security solutions engineered to protect your organization at every layer"
+    },
+    "categories": [
+        "Network Security",
+        "Cloud Security",
+        "Identity & Access",
+        "Endpoint Security",
+        "Compliance & GRC",
+        "Threat Intelligence"
+    ],
+    "solutions": [
+        {
+            "id": "sol-001",
+            "title": "Next-Gen Firewall & Network Security",
+            "category": "Network Security",
+            "shortDescription": "Enterprise-grade network perimeter protection combining stateful inspection, intrusion prevention, and advanced threat detection to secure your entire network infrastructure.",
+            "keyBenefits": [
+                "Deep packet inspection and application-layer filtering",
+                "Intrusion Prevention System (IPS) with real-time signatures",
+                "Zero-day threat protection via sandbox analysis",
+                "Centralized policy management and reporting",
+                "High availability with sub-second failover"
+            ],
+            "icon": "Shield"
+        },
+        {
+            "id": "sol-002",
+            "title": "Cloud Security & CASB",
+            "category": "Cloud Security",
+            "shortDescription": "Secure your cloud environments across AWS, Azure, and Google Cloud with unified visibility, policy enforcement, and compliance controls through our Cloud Access Security Broker platform.",
+            "keyBenefits": [
+                "Multi-cloud visibility and risk assessment",
+                "Data Loss Prevention (DLP) for cloud workloads",
+                "Shadow IT discovery and control",
+                "Cloud workload protection and posture management",
+                "Continuous compliance monitoring"
+            ],
+            "icon": "Cloud"
+        },
+        {
+            "id": "sol-003",
+            "title": "Identity & Access Management",
+            "category": "Identity & Access",
+            "shortDescription": "Enforce zero-trust principles with comprehensive IAM solutions covering multi-factor authentication, privileged access management, and identity governance across your entire enterprise.",
+            "keyBenefits": [
+                "Multi-Factor Authentication (MFA) for all users",
+                "Privileged Access Management (PAM)",
+                "Single Sign-On (SSO) across applications",
+                "Identity lifecycle management",
+                "Role-based access control and certification"
+            ],
+            "icon": "Key"
+        },
+        {
+            "id": "sol-004",
+            "title": "Endpoint Detection & Response",
+            "category": "Endpoint Security",
+            "shortDescription": "Advanced endpoint protection platform combining next-gen antivirus, behavioral analytics, and automated response to stop sophisticated attacks before they impact your business.",
+            "keyBenefits": [
+                "AI-powered threat detection and prevention",
+                "Automated incident response and containment",
+                "Real-time endpoint visibility and forensics",
+                "Ransomware protection and rollback capability",
+                "Unified endpoint management console"
+            ],
+            "icon": "Monitor"
+        },
+        {
+            "id": "sol-005",
+            "title": "GRC & Compliance Management",
+            "category": "Compliance & GRC",
+            "shortDescription": "Streamline your governance, risk, and compliance programs with automated frameworks aligned to ISO 27001, NIST, PCI-DSS, NCA ECC, and other international standards.",
+            "keyBenefits": [
+                "Automated risk assessment and scoring",
+                "Policy management and exception tracking",
+                "Multi-framework compliance mapping",
+                "Audit-ready reporting and evidence collection",
+                "Board-level risk dashboards"
+            ],
+            "icon": "ClipboardCheck"
+        },
+        {
+            "id": "sol-006",
+            "title": "Threat Intelligence Platform",
+            "category": "Threat Intelligence",
+            "shortDescription": "Stay ahead of adversaries with curated, actionable threat intelligence feeds integrated directly into your security stack for proactive threat hunting and rapid incident response.",
+            "keyBenefits": [
+                "Global threat intelligence feeds and IOC enrichment",
+                "Adversary tracking and attribution",
+                "Integration with SIEM and SOAR platforms",
+                "Dark web and brand monitoring",
+                "Custom threat intelligence reports"
+            ],
+            "icon": "Radar"
+        }
+    ]
+}

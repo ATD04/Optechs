@@ -1,0 +1,64 @@
+{
+    "brand": {
+        "name": "OPTECHS",
+        "tagline": "Securing the Future, Powering Innovation",
+        "logo": "/logo.svg",
+        "description": "OPTECHS is a leading cybersecurity and technical solutions company delivering enterprise-grade security and IT services across the region.",
+        "email": "t.optechs@optechs.io",
+        "phone": "+962798752939",
+        "address": "Amman, Jordan"
+    },
+    "navigation": [
+        {
+            "label": "Home",
+            "href": "/"
+        },
+        {
+            "label": "Company",
+            "href": "/company"
+        },
+        {
+            "label": "Solutions",
+            "href": "/solutions"
+        },
+        {
+            "label": "Services",
+            "href": "/services"
+        },
+        {
+            "label": "Support",
+            "href": "/support"
+        },
+        {
+            "label": "Contact",
+            "href": "/contact"
+        }
+    ],
+    "footer": {
+        "description": "OPTECHS delivers next-generation cybersecurity and technical solutions, helping organizations safeguard their digital assets and accelerate secure growth.",
+        "quickLinks": [
+            {
+                "label": "Company",
+                "href": "/company"
+            },
+            {
+                "label": "Solutions",
+                "href": "/solutions"
+            },
+            {
+                "label": "Services",
+                "href": "/services"
+            },
+            {
+                "label": "Support",
+                "href": "/support"
+            },
+            {
+                "label": "Contact",
+                "href": "/contact"
+            }
+        ],
+        "social": [],
+        "copyright": "© 2024 OPTECHS. All rights reserved."
+    }
+}

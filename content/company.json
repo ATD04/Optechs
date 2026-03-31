@@ -1,0 +1,84 @@
+{
+    "hero": {
+        "headline": "About OPTECHS",
+        "subheadline": "A trusted cybersecurity and technical solutions partner for enterprises across the region"
+    },
+    "about": {
+        "title": "Who We Are",
+        "paragraphs": [
+            "OPTECHS is a premier cybersecurity and technical solutions company headquartered in Amman, Jordan. Founded with a mission to protect organizations from evolving digital threats, we combine deep technical expertise with a client-centric approach to deliver measurable security outcomes.",
+            "We serve enterprises, government entities, and SMEs across multiple sectors, offering tailored solutions that address each client's unique security posture - from initial assessment through to implementation, managed services, and ongoing support.",
+            "Our team of certified security professionals, architects, and engineers bring decades of combined experience across the cybersecurity landscape, ensuring our clients stay ahead of the threat curve."
+        ]
+    },
+    "mission": {
+        "title": "Our Mission",
+        "text": "To empower organizations with world-class cybersecurity and technical solutions that protect critical assets, enable digital transformation, and build enduring cyber resilience."
+    },
+    "vision": {
+        "title": "Our Vision",
+        "text": "To be the most trusted cybersecurity and technology partner in the region - recognized for excellence, innovation, and an unwavering commitment to our clients' security success."
+    },
+    "values": [
+        {
+            "title": "Integrity",
+            "description": "We operate with transparency, honesty, and accountability in every engagement."
+        },
+        {
+            "title": "Excellence",
+            "description": "We pursue the highest standards of quality in every solution we deliver."
+        },
+        {
+            "title": "Innovation",
+            "description": "We continuously adopt emerging technologies to stay ahead of evolving threats."
+        },
+        {
+            "title": "Partnership",
+            "description": "We build lasting relationships by deeply understanding our clients' goals."
+        },
+        {
+            "title": "Impact",
+            "description": "We measure success by the tangible security outcomes we create for our clients."
+        }
+    ],
+    "stats": [
+        {
+            "value": "200+",
+            "label": "Enterprise Clients"
+        },
+        {
+            "value": "50+",
+            "label": "Certified Experts"
+        },
+        {
+            "value": "15+",
+            "label": "Years Experience"
+        },
+        {
+            "value": "99.9%",
+            "label": "Client Retention"
+        }
+    ],
+    "timeline": [
+        {
+            "year": "2025",
+            "title": "Establishment",
+            "description": "OPTECHS founded in Amman, Jordan, with a vision to redefine regional cybersecurity standards and technical excellence."
+        },
+        {
+            "year": "2025",
+            "title": "Innovation Center",
+            "description": "Launched our state-of-the-art technical innovation hub in Amman to develop proprietary security tools."
+        },
+        {
+            "year": "2026",
+            "title": "Regional Reach",
+            "description": "Expanded operations and service delivery across the Levant and GCC regions, securing enterprise growth."
+        },
+        {
+            "year": "2026",
+            "title": "Advanced SOC",
+            "description": "Commissioned our next-generation Security Operations Center for real-time proactive threat hunting."
+        }
+    ]
+}

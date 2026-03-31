@@ -1,0 +1,88 @@
+{
+    "hero": {
+        "headline": "Security Products",
+        "subheadline": "Purpose-built security products engineered for modern enterprise environments"
+    },
+    "products": [
+        {
+            "id": "prod-001",
+            "name": "OPTECHS SecureGate",
+            "description": "Enterprise-grade unified threat management appliance combining firewall, IPS, VPN, and web filtering in a single, high-performance platform built for the most demanding environments.",
+            "keyFeatures": [
+                "10Gbps+ throughput with hardware acceleration",
+                "Integrated intrusion prevention and detection",
+                "SSL/TLS inspection with certificate management",
+                "Application-aware policy enforcement",
+                "Centralized management and reporting console",
+                "HA clustering with sub-second failover"
+            ],
+            "useCases": [
+                "Enterprise perimeter security",
+                "Data center protection",
+                "Branch office connectivity",
+                "Secure cloud connectivity"
+            ],
+            "cta": "Request Demo"
+        },
+        {
+            "id": "prod-002",
+            "name": "OPTECHS ThreatView",
+            "description": "AI-powered threat intelligence and analytics platform that aggregates, correlates, and prioritizes threat data from hundreds of feeds to give your security team actionable insights.",
+            "keyFeatures": [
+                "ML-driven threat scoring and prioritization",
+                "Integration with 200+ threat intelligence feeds",
+                "Automated IOC enrichment and sharing",
+                "Dark web and surface web monitoring",
+                "MITRE ATT&CK mapping and visualization",
+                "Real-time alerts and analyst workflow tools"
+            ],
+            "useCases": [
+                "Proactive threat hunting",
+                "Brand and domain monitoring",
+                "Vulnerability prioritization",
+                "Incident response acceleration"
+            ],
+            "cta": "Request Demo"
+        },
+        {
+            "id": "prod-003",
+            "name": "OPTECHS GuardID",
+            "description": "Zero-trust identity and access management platform delivering seamless MFA, privileged access management, and identity governance for hybrid and multi-cloud environments.",
+            "keyFeatures": [
+                "Risk-adaptive multi-factor authentication",
+                "Privileged session recording and monitoring",
+                "Just-in-time access provisioning",
+                "Password vaulting and rotation",
+                "Identity analytics and anomaly detection",
+                "SCIM-based automated provisioning"
+            ],
+            "useCases": [
+                "Privileged access protection",
+                "Remote workforce security",
+                "Third-party vendor access",
+                "Zero-trust access implementation"
+            ],
+            "cta": "Request Demo"
+        },
+        {
+            "id": "prod-004",
+            "name": "OPTECHS ComplianceHub",
+            "description": "Comprehensive GRC platform automating compliance management across multiple regulatory frameworks including NCA ECC, ISO 27001, PCI-DSS, SAMA CSF, and GDPR.",
+            "keyFeatures": [
+                "50+ pre-built regulatory frameworks",
+                "Automated evidence collection and mapping",
+                "Risk register and treatment workflows",
+                "Policy management and version control",
+                "Audit management and scheduling",
+                "Executive dashboards and board reporting"
+            ],
+            "useCases": [
+                "Multi-framework compliance management",
+                "Risk assessment and treatment",
+                "Audit preparation and management",
+                "Policy governance"
+            ],
+            "cta": "Request Demo"
+        }
+    ]
+}
