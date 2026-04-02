@@ -59,7 +59,7 @@ export default function ServicesPage() {
 
                                         <div className="grid sm:grid-cols-2 gap-6">
                                             <div>
-                                                <h4 className="text-xs font-bold text-cyan-400 uppercase tracking-widest mb-4">Deliverables</h4>
+                                                <h4 className="text-xs font-bold text-cyan-400 uppercase tracking-widest mb-4">Capabilities</h4>
                                                 <ul className="space-y-3">
                                                     {svc.deliverables.map((del, i) => (
                                                         <li key={i} className="flex items-start gap-2 text-sm text-gray-500">

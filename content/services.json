@@ -188,6 +188,112 @@
                 }
             ],
             "icon": "FileCheck"
+        },
+        {
+            "id": "svc-007",
+            "title": "Onboard AI & Edge Computing Integration",
+            "description": "We design and deploy high-performance onboard computing solutions for embedded and edge AI systems. Our focus is on transforming existing platforms into intelligent, mission-capable systems through seamless third-party hardware and software integration, enabling real-time perception, decision-making, and communication directly on-device without cloud dependency.",
+            "deliverables": [
+                "Deployment of AI models on edge platforms",
+                "Multi-sensor integration and fusion",
+                "Real-time data processing and pipeline optimization",
+                "Middleware and communication integration",
+                "Low-latency performance tuning and system reliability optimization"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Platform Assessment",
+                    "description": "Evaluate compute constraints, sensor stack, and mission requirements."
+                },
+                {
+                    "step": 2,
+                    "title": "Integration Design",
+                    "description": "Define software architecture for model deployment, middleware, and data pipelines."
+                },
+                {
+                    "step": 3,
+                    "title": "Deployment & Tuning",
+                    "description": "Deploy models on target hardware and optimize for latency, throughput, and reliability."
+                },
+                {
+                    "step": 4,
+                    "title": "Validation",
+                    "description": "Validate real-time behavior under operational workloads and refine iteratively."
+                }
+            ],
+            "icon": "Eye"
+        },
+        {
+            "id": "svc-008",
+            "title": "Robotics Architecture, Autonomy & Control",
+            "description": "We engineer complete robotics systems from architecture to control execution, covering the full autonomy stack with tight coupling between perception, estimation, and control in real-time environments. Our systems are designed to be robust under real-world constraints and scalable across platforms.",
+            "deliverables": [
+                "End-to-end robotics system architecture design",
+                "Custom control algorithms",
+                "State estimation and sensor fusion",
+                "Autonomous navigation and decision-making systems",
+                "Real-time embedded implementation",
+                "Hardware-software co-design and optimization",
+                "Distributed and onboard/offboard communication architectures"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "System Architecture",
+                    "description": "Define modular robotics architecture, interfaces, and computational boundaries."
+                },
+                {
+                    "step": 2,
+                    "title": "Autonomy Stack Design",
+                    "description": "Develop estimation, planning, and control pipelines for mission objectives."
+                },
+                {
+                    "step": 3,
+                    "title": "Embedded Implementation",
+                    "description": "Implement and optimize autonomy components on real-time onboard hardware."
+                },
+                {
+                    "step": 4,
+                    "title": "Integration & Field Validation",
+                    "description": "Validate full-stack behavior across simulation and live operational conditions."
+                }
+            ],
+            "icon": "Layout"
+        },
+        {
+            "id": "svc-009",
+            "title": "System Integration & Validation",
+            "description": "We integrate complex multi-vendor systems into cohesive, reliable platforms and verify performance under operational conditions. Our validation approach combines simulation, hardware-in-the-loop workflows, and real-world testing with iterative refinement.",
+            "deliverables": [
+                "Integration of heterogeneous hardware and software systems",
+                "Hardware-in-the-loop (HITL) and simulation-based validation",
+                "Field and flight testing support",
+                "System debugging, profiling, and performance optimization"
+            ],
+            "processSteps": [
+                {
+                    "step": 1,
+                    "title": "Integration Planning",
+                    "description": "Map subsystem interfaces, dependencies, and integration sequence."
+                },
+                {
+                    "step": 2,
+                    "title": "System Bring-Up",
+                    "description": "Integrate heterogeneous components and establish stable communication baselines."
+                },
+                {
+                    "step": 3,
+                    "title": "HITL & Simulation Validation",
+                    "description": "Stress-test behavior in controlled environments before field deployment."
+                },
+                {
+                    "step": 4,
+                    "title": "Operational Testing",
+                    "description": "Execute field and flight tests, then optimize based on observed performance."
+                }
+            ],
+            "icon": "FileCheck"
         }
     ]
 }
