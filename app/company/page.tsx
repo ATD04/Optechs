@@ -4,7 +4,6 @@ import FeatureGrid from "@/components/ui/FeatureGrid";
 import Card from "@/components/ui/Card";
 import AnimatedSection from "@/components/ui/AnimatedSection";
 import { getCompanyData } from "@/lib/content";
-import Image from "next/image";
 
 const companyData = getCompanyData();
 
@@ -76,42 +75,6 @@ export default function CompanyPage() {
                             </Card>
                         ))}
                     </FeatureGrid>
-                </div>
-            </AnimatedSection>
-
-            {/* Customers */}
-            <AnimatedSection className="py-24 bg-navy-900 border-y border-white/5">
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <SectionHeader
-                        title="Our Customers"
-                        subtitle="Organizations that trust OPTECHS for specialized technical consultation and long-term collaboration."
-                        badge="Clients"
-                    />
-
-                    <div className="max-w-3xl mx-auto">
-                        <Card hover>
-                            <div className="flex flex-col md:flex-row md:items-center gap-8">
-                                <div className="bg-white rounded-2xl p-5 flex items-center justify-center md:w-80 w-full">
-                                    <Image
-                                        src="/images/khalifa-university.png"
-                                        alt="Khalifa University"
-                                        width={360}
-                                        height={110}
-                                        className="w-full h-auto object-contain"
-                                        priority={false}
-                                    />
-                                </div>
-
-                                <div className="flex-1">
-                                    <h3 className="text-2xl font-bold text-white mb-3">Khalifa University</h3>
-                                    <p className="text-gray-300 leading-relaxed">
-                                        Khalifa University is one of our valued clients, and we provide them with
-                                        technical consultation to support their cybersecurity and technology objectives.
-                                    </p>
-                                </div>
-                            </div>
-                        </Card>
-                    </div>
                 </div>
             </AnimatedSection>
 
