@@ -194,3 +194,75 @@ export interface ContactData {
         buttonHref: string;
     };
 }
+
+// ─────────────────────────────────────────────
+// Learning Solutions Types
+// ─────────────────────────────────────────────
+export interface LearningItem {
+    icon?: string;
+    category?: string;
+    title: string;
+    description: string;
+    href?: string;
+    image?: string;
+}
+
+export interface LearningSolution {
+    id: string;
+    icon: string;
+    title: string;
+    description: string;
+    includes: string[];
+}
+
+export interface LearningSectionIntro {
+    badge: string;
+    title: string;
+    subtitle: string;
+}
+
+export interface LearningData {
+    hero: { badge: string; headline: string; subheadline: string; image: string };
+    overview: {
+        badge: string;
+        title: string;
+        paragraphs: string[];
+        panelTitle: string;
+        panelSubtitle: string;
+        highlights: string[];
+        image: string;
+    };
+    solutions: LearningSectionIntro & { items: LearningSolution[] };
+    why: LearningSectionIntro & { items: LearningItem[] };
+    audiences: LearningSectionIntro & { items: LearningItem[] };
+    kits: LearningSectionIntro & {
+        description: string;
+        categories: string[];
+        items: LearningItem[];
+        image: string;
+        cta: { label: string; href: string };
+    };
+    work: LearningSectionIntro & { items: LearningItem[] };
+    insights: LearningSectionIntro & {
+        featured: LearningItem[];
+        topics: string[];
+        moreTopics: string[];
+        tools: { title: string; items: string[]; cta: { label: string; href: string } };
+    };
+    about: {
+        badge: string;
+        title: string;
+        paragraphs: string[];
+        mission: string;
+        vision: string;
+    };
+    getStarted: LearningSectionIntro & { items: LearningItem[] };
+    cta: {
+        title: string;
+        description: string;
+        buttonLabel: string;
+        buttonHref: string;
+        secondaryLabel: string;
+        secondaryHref: string;
+    };
+}

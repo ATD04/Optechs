@@ -1,0 +1,359 @@
+{
+    "hero": {
+        "badge": "Instructional Design & Learning Solutions",
+        "headline": "From Educational Content to Complete Learning Experiences",
+        "subheadline": "We design the learning journey, develop the content, build the practical resources, and equip educators and trainers to deliver learning that works.",
+        "image": "/images/learning/hero.jpg"
+    },
+    "overview": {
+        "badge": "Complete Learning Solutions",
+        "title": "Better-Designed Learning. More Meaningful Application.",
+        "paragraphs": [
+            "OPTECHS provides end-to-end instructional design and learning development services for education and training. We design e-learning experiences, develop educational materials, create trainer manuals and facilitation toolkits, build practical learning kits, and deliver assessment resources that connect learning objectives with real-world application.",
+            "Whether you need a complete learning program or a single, well-designed resource, we help you turn knowledge into structured, engaging, and practical learning experiences."
+        ],
+        "panelTitle": "Learning Designed for Application",
+        "panelSubtitle": "Strategy · Content · Practice · Impact",
+        "highlights": [
+            "Learning objectives first",
+            "Practical and digital resources",
+            "Designed for real-world application",
+            "Flexible, end-to-end support"
+        ],
+        "image": "/images/learning/overview.jpg"
+    },
+    "solutions": {
+        "badge": "Our Solutions",
+        "title": "Comprehensive Learning Services",
+        "subtitle": "From instructional design to hands-on learning resources, we provide the expertise and materials needed to create effective learning experiences.",
+        "items": [
+            {
+                "id": "instructional-design",
+                "icon": "Design",
+                "title": "Instructional Design & Curriculum Development",
+                "description": "Design learning programs around clear, measurable outcomes.",
+                "includes": [
+                    "Learning needs analysis",
+                    "Curriculum mapping",
+                    "Measurable objectives",
+                    "Course architecture",
+                    "Lesson plans",
+                    "Instructional strategies"
+                ]
+            },
+            {
+                "id": "e-learning",
+                "icon": "Digital",
+                "title": "E-Learning & Digital Learning",
+                "description": "Build engaging online and blended learning experiences.",
+                "includes": [
+                    "Online courses",
+                    "Interactive modules",
+                    "Multimedia learning",
+                    "LMS course design & implementation support",
+                    "Blended learning",
+                    "Gamification & simulations"
+                ]
+            },
+            {
+                "id": "learning-materials",
+                "icon": "Materials",
+                "title": "Educational Content & Learning Materials",
+                "description": "Develop clear, consistent materials for learners and instructors.",
+                "includes": [
+                    "Course materials",
+                    "Student workbooks & learner guides",
+                    "Lesson plans & worksheets",
+                    "Presentations",
+                    "Reading materials",
+                    "Scripts & storyboards"
+                ]
+            },
+            {
+                "id": "trainer-toolkits",
+                "icon": "Toolkit",
+                "title": "Trainer Manuals & Facilitation Toolkits",
+                "description": "Equip trainers with everything needed to run effective sessions.",
+                "includes": [
+                    "Trainer guides & facilitation manuals",
+                    "Session plans & workshop agendas",
+                    "Activity cards",
+                    "Role-play exercises",
+                    "Discussion guides & handouts",
+                    "Debriefing resources"
+                ]
+            },
+            {
+                "id": "learning-kits",
+                "icon": "Lab",
+                "title": "Practical Educational Kits & Learning Labs",
+                "description": "Bring theory to life through hands-on, guided practice.",
+                "includes": [
+                    "STEM kits",
+                    "Science experiments",
+                    "Electrical & electronics kits",
+                    "Renewable energy kits",
+                    "Laboratory activities",
+                    "Technical training resources"
+                ]
+            },
+            {
+                "id": "assessment",
+                "icon": "Assessment",
+                "title": "Assessment & Learning Evaluation",
+                "description": "Measure what learners know and can do.",
+                "includes": [
+                    "Quizzes",
+                    "Question banks",
+                    "Assessment rubrics",
+                    "Practical assessments",
+                    "Competency checklists",
+                    "Learning evaluation tools"
+                ]
+            },
+            {
+                "id": "educator-development",
+                "icon": "Educators",
+                "title": "Educator Development & Training Solutions",
+                "description": "Strengthen the people who deliver learning.",
+                "includes": [
+                    "Teacher professional development",
+                    "Faculty training",
+                    "Train-the-trainer programs",
+                    "Facilitator development",
+                    "Corporate learning"
+                ]
+            },
+            {
+                "id": "facilitation-support",
+                "icon": "Facilitation",
+                "title": "Facilitation Support",
+                "description": "Practical support for delivering workshops and learning sessions.",
+                "includes": [
+                    "Facilitator preparation",
+                    "Activity instructions",
+                    "Timing plans",
+                    "Participant engagement",
+                    "Debriefing guidance"
+                ]
+            }
+        ]
+    },
+    "why": {
+        "badge": "Why OPTECHS",
+        "title": "One Partner. From Learning Design to Delivery.",
+        "subtitle": "We connect the strategy, content, digital experience, and practical resources behind effective learning.",
+        "items": [
+            {
+                "icon": "EndToEnd",
+                "title": "End-to-End Support",
+                "description": "From initial learning needs and design through development and implementation support."
+            },
+            {
+                "icon": "Learners",
+                "title": "Designed Around Your Learners",
+                "description": "Solutions tailored to learning objectives, target audiences, subject matter, and organizational needs."
+            },
+            {
+                "icon": "Connected",
+                "title": "Connected Learning Resources",
+                "description": "Educational content, digital experiences, assessments, and practical resources designed to work together."
+            },
+            {
+                "icon": "Alignment",
+                "title": "Purposeful Alignment",
+                "description": "Learning objectives, activities, and assessments aligned to support meaningful application."
+            }
+        ]
+    },
+    "audiences": {
+        "badge": "Who We Serve",
+        "title": "Learning Solutions for Every Sector",
+        "subtitle": "We adapt our services and resources to the learners, learning outcomes, and real-world needs of each organization.",
+        "items": [
+            {
+                "icon": "School",
+                "title": "Schools & K–12 Education",
+                "description": "Curriculum-aligned materials, lesson plans, STEM kits, student workbooks, classroom activities, and teacher guides."
+            },
+            {
+                "icon": "University",
+                "title": "Higher Education",
+                "description": "University course design, e-learning development, laboratory manuals, assessments, and faculty support."
+            },
+            {
+                "icon": "Vocational",
+                "title": "Technical & Vocational Education",
+                "description": "Competency-based curricula, practical kits, technical manuals, and hands-on skills assessment."
+            },
+            {
+                "icon": "Corporate",
+                "title": "Corporate Training & Workforce Development",
+                "description": "Employee onboarding, training materials, facilitator toolkits, technical training, and workplace learning."
+            },
+            {
+                "icon": "Partners",
+                "title": "Publishers, NGOs & Training Providers",
+                "description": "Learning content production, instructional design partnerships, educational resources, and scalable training programs."
+            }
+        ]
+    },
+    "kits": {
+        "badge": "Learning Kits & Resources",
+        "title": "Practical Kits, Manuals & Digital Resources",
+        "subtitle": "Move beyond theory with hands-on learning systems that connect physical resources, clear instructions, and purposeful activities.",
+        "description": "Explore educational kits and supporting resources designed to help learners build, test, observe, solve problems, and apply what they learn. Every kit can be developed into a custom solution that matches your subject, audience, and curriculum.",
+        "categories": [
+            "STEM & Science",
+            "Electronics",
+            "Renewable Energy",
+            "Technical Training"
+        ],
+        "items": [
+            {
+                "title": "Practical Kits",
+                "description": "STEM, science, electronics, engineering, renewable energy, and technical training."
+            },
+            {
+                "title": "Instructional Resources",
+                "description": "Experiment guides, laboratory manuals, instructor guides, student workbooks, and worksheets."
+            },
+            {
+                "title": "Digital Companions",
+                "description": "QR-linked demonstrations, videos, simulations, downloadable resources, and troubleshooting guides."
+            },
+            {
+                "title": "Custom Development",
+                "description": "Resources adapted to your learning outcomes, learner level, and institutional requirements."
+            }
+        ],
+        "cta": {
+            "label": "Request a Kit Quote",
+            "href": "/contact"
+        },
+        "image": "/images/learning/kits.jpg"
+    },
+    "work": {
+        "badge": "Our Work",
+        "title": "Learning Ideas, Made Practical",
+        "subtitle": "Sample learning experiences that show how the OPTECHS approach comes together.",
+        "items": [
+            {
+                "category": "STEM & Practical Learning",
+                "title": "Hands-On STEM Learning Kit",
+                "description": "Practical components combined with experiment guides, instructor notes, and student activities.",
+                "image": "/images/learning/work-stem.jpg"
+            },
+            {
+                "category": "E-Learning",
+                "title": "Interactive Digital Course",
+                "description": "Structured digital content, learning activities, knowledge checks, and an intuitive learner journey.",
+                "image": "/images/learning/work-elearning.jpg"
+            },
+            {
+                "category": "Training & Facilitation",
+                "title": "Trainer Facilitation Toolkit",
+                "description": "Session plans, activity cards, participant resources, trainer guidance, and evaluation tools.",
+                "image": "/images/learning/work-facilitation.jpg"
+            }
+        ]
+    },
+    "insights": {
+        "badge": "Insights & Resources",
+        "title": "Ideas. Guides. Practical Tools.",
+        "subtitle": "Useful content and resources to help educators, instructional designers, and training professionals apply effective practices.",
+        "featured": [
+            {
+                "category": "Instructional Design",
+                "title": "How to Turn a Curriculum into a Complete Learning Experience",
+                "description": "Connect outcomes, content, activities, assessments, and resources in a coherent learning journey."
+            },
+            {
+                "category": "Practical Learning",
+                "title": "What Should an Effective Laboratory Manual Include?",
+                "description": "Explore the key components of clear, safe, and instructionally aligned experiment guides."
+            },
+            {
+                "category": "Assessment",
+                "title": "How to Align Learning Objectives, Activities and Assessments",
+                "description": "Use alignment to help ensure learners practice and demonstrate what a course intends to teach."
+            }
+        ],
+        "topics": [
+            "Instructional Design Fundamentals",
+            "Curriculum & Course Development",
+            "E-Learning & Digital Learning",
+            "STEM & Hands-On Education",
+            "Practical Laboratory Design",
+            "Teacher & Trainer Resources",
+            "Assessment & Learning Evaluation",
+            "Educational Kits & Experiment Guides"
+        ],
+        "moreTopics": [
+            "Designing Practical STEM Activities for Schools",
+            "How to Convert a Traditional University Course into a Blended Learning Experience",
+            "Educational Kits vs. Complete Practical Learning Systems: What's the Difference?",
+            "How to Design Competency-Based Training for Technical Education",
+            "A Practical Guide to Creating Instructor and Student Manuals"
+        ],
+        "tools": {
+            "title": "Useful Tools for Your Next Learning Project",
+            "items": [
+                "Course design checklist",
+                "Learning objectives worksheet",
+                "Laboratory manual template",
+                "Session planning template",
+                "Facilitation checklist",
+                "Assessment rubric template"
+            ],
+            "cta": {
+                "label": "Ask About Resources",
+                "href": "/contact"
+            }
+        }
+    },
+    "about": {
+        "badge": "About OPTECHS",
+        "title": "Making Learning Work Beyond the Page and the Screen",
+        "paragraphs": [
+            "OPTECHS is an instructional design and learning solutions partner helping educational institutions, training providers, and organizations design, develop, and implement effective learning experiences.",
+            "We bring together instructional design, educational content development, digital learning, practical learning resources, and training support to help turn complex knowledge into structured, accessible, and applicable learning.",
+            "From designing a university course to developing a hands-on engineering kit or building a complete workforce training program, we focus on aligning every learning resource with its purpose, audience, and intended outcomes."
+        ],
+        "mission": "To empower educators and organizations with thoughtfully designed learning experiences, practical educational resources, and scalable solutions that connect knowledge with application.",
+        "vision": "To become a trusted learning solutions partner recognized for connecting instructional design, educational innovation, and practical learning across education and workforce development."
+    },
+    "getStarted": {
+        "badge": "Get in Touch",
+        "title": "Let's Design Your Next Learning Solution",
+        "subtitle": "Discuss your project, request a customized solution, or get a quotation. Tell us what you need, and we'll explore the right approach together.",
+        "items": [
+            {
+                "icon": "Project",
+                "title": "Discuss a Learning Project",
+                "description": "Share your goals and get expert advice on the best solution.",
+                "href": "/contact"
+            },
+            {
+                "icon": "Quote",
+                "title": "Request a Kit Quote",
+                "description": "Ask about products, quantities, and customized learning kits.",
+                "href": "/contact"
+            },
+            {
+                "icon": "Materials",
+                "title": "Develop Training Materials",
+                "description": "Plan manuals, workbooks, e-learning, or facilitation toolkits.",
+                "href": "/contact"
+            }
+        ]
+    },
+    "cta": {
+        "title": "Complete Learning Solutions. From Design to Delivery.",
+        "description": "Whether you need a complete learning program or one carefully designed resource, OPTECHS can help you turn your goals into practical learning experiences.",
+        "buttonLabel": "Start Your Learning Project",
+        "buttonHref": "/contact",
+        "secondaryLabel": "Explore Our Solutions",
+        "secondaryHref": "#solutions"
+    }
+}

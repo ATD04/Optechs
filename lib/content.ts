@@ -6,6 +6,7 @@ import vendorsData from "@/content/vendors.json";
 import productsData from "@/content/products.json";
 import supportData from "@/content/support.json";
 import contactData from "@/content/contact.json";
+import learningData from "@/content/learning.json";
 
 import type {
     SiteData,
@@ -16,6 +17,7 @@ import type {
     ProductsData,
     SupportData,
     ContactData,
+    LearningData,
 } from "@/types";
 
 export function getSiteData(): SiteData {
@@ -48,4 +50,8 @@ export function getSupportData(): SupportData {
 
 export function getContactData(): ContactData {
     return contactData as ContactData;
+}
+
+export function getLearningData(): LearningData {
+    return learningData as LearningData;
 }

@@ -26,6 +26,10 @@
             "href": "/services"
         },
         {
+            "label": "Learning",
+            "href": "/learning-solutions"
+        },
+        {
             "label": "Support",
             "href": "/support"
         },
@@ -48,6 +52,10 @@
             {
                 "label": "Services",
                 "href": "/services"
+            },
+            {
+                "label": "Learning Solutions",
+                "href": "/learning-solutions"
             },
             {
                 "label": "Support",
